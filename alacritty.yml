@@ -1,3 +1,21 @@
+font:
+  # The size to use.
+  size: 12
+
+  normal:
+    family: JetBrainsMono Nerd Font
+    # Style can be specified to pick a specific face.
+
+  # The bold font face
+  bold:
+    family: JetBrainsMono Nerd Font
+    # Style can be specified to pick a specific face.
+
+  # The italic font face
+  italic:
+    family: JetBrainsMono Nerd Font
+    # Style can be specified to pick a specific face.
+
 colors:
   # Default colors
   primary:
@@ -20,7 +38,7 @@ colors:
 
   # Bright colors
   bright:
-    black:   '0x000000'
+    black:   '0x666666'
     red:     '0xFF001D'
     green:   '0x30DB22'
     yellow:  '0xF0EE00'
@@ -28,3 +46,5 @@ colors:
     magenta: '0xcc00ff'
     cyan:    '0x32BCD9'
     white:   '0xFFFFFF'
+
+background_opacity: 0.8
