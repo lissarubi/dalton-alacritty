@@ -6,7 +6,7 @@ Dalton theme for [Alacritty](https://github.com/alacritty/alacritty)
 
 # Install
 
-copy the entire file `alacritty.yaml` to `~/.config/alacritty` or copy only these lines to fill the `colors` option of Alacritty config file:
+copy the entire file `alacritty.yml` to `~/.config/alacritty` or copy only these lines to fill the `colors` option of Alacritty config file:
 
 ```yaml
 colors:
