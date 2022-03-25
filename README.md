@@ -1,6 +1,6 @@
 # Dalton for Alacritty
 
-> Dalton for Alacritty is a Alacritty port of Dalton Theme, check out [Dalton Website](https://edersonferreira.github.io/dalton-website/) to get more dalton theme ports.
+> Dalton for Alacritty is a Alacritty port of Dalton Theme, check out [Dalton Website](https://lissaferreira.github.io/dalton-website/) to get more dalton theme ports.
 
 Dalton theme for [Alacritty](https://github.com/alacritty/alacritty)
 
